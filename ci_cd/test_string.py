@@ -9,7 +9,6 @@ import unittest
 
 
 class TestStringMethods(unittest.TestCase):
-    """test case"""
 
     def test_upper(self):
         """test upper"""
